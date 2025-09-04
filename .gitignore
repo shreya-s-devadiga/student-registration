@@ -1,0 +1,8 @@
+# Ignore Docker files
+*.log
+*.tmp
+*.swp
+*.pid
+
+# Ignore node modules (if used later)
+node_modules/
