@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/YOUR_USERNAME/student-registration.git'
+                git 'https://github.com/shreya-s-devadiga/student-registration.git'
             }
         }
 
